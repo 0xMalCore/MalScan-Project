@@ -109,7 +109,7 @@ The following improvements are planned for subsequent versions of MalScan:
 
 **Shezan Merajuddin Shaikh**  
 Malware Analysis and Reverse Engineering Enthusiast  
-GitHub: [https://github.com/Su1cidee](https://github.com/Su1cidee)
+GitHub: [https://github.com/0xMalCore](https://github.com/0xMalCore)
 
 ---
 
